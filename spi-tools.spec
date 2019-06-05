@@ -4,7 +4,7 @@
 #
 Name     : spi-tools
 Version  : 0.8.3
-Release  : 5
+Release  : 6
 URL      : https://github.com/cpb-/spi-tools/archive/0.8.3.tar.gz
 Source0  : https://github.com/cpb-/spi-tools/archive/0.8.3.tar.gz
 Summary  : No detailed summary available
